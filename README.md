@@ -2,30 +2,6 @@
 Made with ❤️ for Android Campose camp
 
 
-
-<h1 align="center">Awesome Android Learning Resources</h1></br>
-
-<p align="center">
-:eyeglasses: A curated list of awesome android learning resources for android app developers.
-</p>
-<br>
-
-<p align="center">
-  <a href="https://awesome.re"><img alt="Awesome" src="https://awesome.re/badge-flat.svg"/></a>
-  <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/android.svg&color=3ddc84"/></a>
-  <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-android-kotlin-apps/master/assets/kotlin.svg&color=f18e33"/></a>
-  <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
-</p>
-
-<br>
-<p align="center">
-<img width="320px" src="assets/androiddevnotes.png" alt="androiddevnotes logo"></img>
-</p>
-
-<br>
-
-**Awesome Android Learning Resources** aims to be the starting point for Android App Developers to find the finest learning content for Android App Development.
-
 The content is Android Kotlin App development focused. Android Java content which can be of benefit to developers is listed and are under Java section.
 
 Content in languages other than English is tagged according to ISO 639-2 codes.

@@ -2,9 +2,8 @@
 Made with ❤️ for Android Campose camp
 
 
-The content is Android Kotlin App development focused. Android Java content which can be of benefit to developers is listed and are under Java section.
+The content is Android Kotlin App development focused for GDSC BSIOTR Andoid compose camp. Android Java content which can be of benefit to developers is listed and are under Java section.
 
-Content in languages other than English is tagged according to ISO 639-2 codes.
 
 **Confused where to begin?** Start with [Official Android Courses.](https://developer.android.com/courses) 
 

@@ -35,12 +35,6 @@ The content is Android Kotlin App development focused for GDSC BSIOTR Andoid com
 
 - [Communities](#communities)
 
-- :memo: [**Contributing**](#memo-contributing)
-
-- :lotus_position_woman: [**Contributors**](#lotus_position_woman-contributors)
-
-- :computer: [**Find us on**](#computer-find-us-on)
-
 ## Jetpack Compose Learning Resources
 
 - [Jetpack Compose Learning Resources](https://github.com/androiddevnotes/learn-jetpack-compose-android) - A continuously updated list of learning Jetpack Compose for Android apps.
